@@ -1,0 +1,3 @@
+These are seven trophies for competition prizes. Three are gold, silver and bronze trophy cups. Three are gold, silver and bronze house-shaped trophies, and the last is a gold spinning die which casts disco lighting.
+
+The house model from https://www.thingiverse.com/thing:4633658/files by Kuro_art is licensed under the 'Creative Commons - Attribution - Non-Commercial' license, available at https://creativecommons.org/licenses/by-nc/4.0/. The model is downscaled to reduce the poly count.
